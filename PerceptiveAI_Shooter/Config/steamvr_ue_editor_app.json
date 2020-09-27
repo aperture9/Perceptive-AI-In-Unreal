@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.perceptiveai_shooter-13942748.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/Repo/Git/Perceptive-AI-In-Unreal/PerceptiveAI_Shooter/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "PerceptiveAI_Shooter-13942748 [UE Editor]"
+				}
+			}
+		}
+	]
+}
